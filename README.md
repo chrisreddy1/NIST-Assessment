@@ -143,9 +143,11 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 <details close> 
 <summary> <h3> Nist Cybersecurity Framework 2.0 Pass/Fail logs (Click here)</h3> </summary>
 
-![Screenshot 2024-10-27 205100](https://github.com/user-attachments/assets/586dd539-f042-4bea-b9d2-290b8e445571)
+![image](https://github.com/user-attachments/assets/abe2f966-8146-4dcc-8bf0-0ab1cfa17938)
 
-![Screenshot 2024-10-27 205255](https://github.com/user-attachments/assets/c0c4e42a-7736-48b1-ac59-92604fef17ca)
+![image](https://github.com/user-attachments/assets/54d5cacd-c4fc-476b-9988-16990bd89c65)
+
+![image](https://github.com/user-attachments/assets/1a82cfcd-03d5-45a4-aabb-32cc84fe344a)
 
   </details>
 
