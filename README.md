@@ -135,7 +135,7 @@ module includes basic instructions about cybersecurity.
   </details>
 ------
 
-Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many deficiencies. Recommendations will be provided after each subcategory. 
+Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many deficiencies. Recommendations will be provided at the very end. 
 
 <!--IDENTIFY-->
 ![Screenshot 2024-10-28 134831](https://github.com/user-attachments/assets/9dc5bda1-08f0-4d90-b806-34621a19553a)
