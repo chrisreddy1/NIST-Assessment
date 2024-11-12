@@ -201,11 +201,15 @@ A full-scale Cyber Security Risk Management policy needs to be implemented utili
 <details close> 
 <summary> <h3> Nist Cybersecurity Framework 2.0 Pass/Fail logs (Click here)</h3> </summary>
 
-![Screenshot 2024-10-28 141833](https://github.com/user-attachments/assets/83ff0872-74e1-4969-a1f2-29a639abb176)
+![image](https://github.com/user-attachments/assets/e8d88aa2-c758-4e8c-94dc-16131907acc4)
 
-![Screenshot 2024-10-28 142000](https://github.com/user-attachments/assets/f36bc530-31e3-4425-a67d-2a70586aa605)
+![image](https://github.com/user-attachments/assets/1d0c619d-bb1a-44bc-8743-068e1ec212a2)
 
-![Screenshot 2024-10-28 142028](https://github.com/user-attachments/assets/cac40a40-e19a-464c-a819-e8f1651e5231)
+![image](https://github.com/user-attachments/assets/eb06a12c-7da3-49b0-ab4d-e041b5deaeb7)
+
+![image](https://github.com/user-attachments/assets/ec5b3c57-4912-4893-9567-721c7a6d0332)
+
+![image](https://github.com/user-attachments/assets/5e11a6ef-f0f3-4b76-9131-59c7dd4ad189)
 
 
   </details>
@@ -261,10 +265,11 @@ A Security Information and Event Management (SIEM) needs to be implemented and a
 <details close> 
 <summary> <h3> Nist Cybersecurity Framework 2.0 Pass/Fail logs (Click here)</h3> </summary>
 
-![Screenshot 2024-10-28 142453](https://github.com/user-attachments/assets/e8f4d360-6015-451c-8484-3fc6b868b63b)
+![image](https://github.com/user-attachments/assets/4dd81dfd-3692-43ef-997d-1e9c8be15291)
 
-![Screenshot 2024-10-28 142508](https://github.com/user-attachments/assets/7fc2cbd1-0dcd-4818-8413-c17ef30d0716)
+![image](https://github.com/user-attachments/assets/acedecf0-5d76-4595-8b45-9f850487c8b0)
 
+![image](https://github.com/user-attachments/assets/e3146487-584a-4257-8480-27ebc54e86cd)
 
   </details>
 
@@ -288,9 +293,11 @@ Detection and response capabilities need to be established. Roles and responsibi
 <details close> 
 <summary> <h3> Nist Cybersecurity Framework 2.0 Pass/Fail logs (Click here)</h3> </summary>
 
+![image](https://github.com/user-attachments/assets/d81c80c1-9de2-4f9d-a723-75c9d880ed19)
 
-![Screenshot 2024-10-28 142705](https://github.com/user-attachments/assets/ef22e6a8-8635-47a4-abfc-80181246c01c)
+![image](https://github.com/user-attachments/assets/b187af42-b8c7-4163-992f-9c2c0aa2b043)
 
+![image](https://github.com/user-attachments/assets/c12f8521-1406-49ab-82c2-2dc0ebc9952b)
 
   </details>
 
@@ -324,10 +331,7 @@ Analyze, test and update incident response plans continuously.
 <details close> 
 <summary> <h3> Nist Cybersecurity Framework 2.0 Pass/Fail logs (Click here)</h3> </summary>
 
-
-![Screenshot 2024-10-28 142747](https://github.com/user-attachments/assets/92ba5adc-b78e-447e-bba8-c2d2103bdefc)
-
-
+![image](https://github.com/user-attachments/assets/4ff8a12f-562a-4de2-ab15-0f57380f01dd)
 
   </details>
 
