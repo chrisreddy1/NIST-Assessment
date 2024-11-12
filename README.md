@@ -280,6 +280,6 @@ Data Security and DLP:
 
 Detection and Response:
 
-• Invest in a SIEM solu1on. This could be using a Managed Security Service Provider (MSSP) or in house. Detecting cybersecurity incidents is a priority.
+• Invest in a SIEM solution. This could be using a Managed Security Service Provider (MSSP) or in house. Detecting cybersecurity incidents is a priority.
 
 • Create an enterprise-wide cybersecurity incident response plan and at least 5 cybersecurity incident response plans for the most common attack types.
