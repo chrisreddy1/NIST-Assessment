@@ -54,7 +54,7 @@ to Oscorp’s IT manager.
 manager.
 
 **Oscorp Current Cyber Security Controls:**
-- Organisational governance:
+- Organizational governance:
   - CEO has a clear business strategy for the business. However, roles and
 responsibilities for cybersecurity haven’t been defined. They’re assigned to
 the IT team. There is no cybersecurity strategy.
@@ -93,12 +93,12 @@ laptops with the latest Windows desktop version
   - There is no privileged access management solution in place
   - Admin account password is shared with a few senior members of the IT team
   - Access to resources is granted upon request
-  - The organisation does not use two-factor authentication for login
+  - The organization does not use two-factor authentication for login
   - Complex login passwords are used
   - Employees use a VPN solution to login remotely when required
 
 - Network security:
-  - The organisation has Palo Alto Next Gen firewalls.
+  - The organization has Palo Alto Next Gen firewalls.
   - The firewalls have been configured by the network
   - The firewalls get audited every year by the network team
   - The firewalls get regular updates
