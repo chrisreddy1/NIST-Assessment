@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For this project I was tasked with analyzing an Organization's ('Oscorp') cybersecurity status and designing a comprehensive cybersecurity program utilizing the [NIST CSF 2.0](https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20) to uplift its security posture. I was given a 'current status' report, much like one that would be compiled after initial investigations and interviews with employees and stakeholders. Using the NIST CSF, I conducted a pass/fail assessment and presented recommendations for improvement. I decided to start with a short presentation to stakeholders to explain the framework and roadmap and ended with presenting them with a comprehensive list of recomendations and procedures to be implemented.
+For this project I was tasked with analyzing an Organization's ('Oscorp') cybersecurity status and designing a comprehensive cybersecurity program utilizing the [NIST CSF 2.0](https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20) to uplift its security posture. I was given a 'current status' report, much like one that would be compiled after initial investigations and interviews with employees and stakeholders. Using the NIST CSF, I conducted a pass/fail assessment and presented recommendations for improvement. I decided to start with a short presentation to stakeholders to explain the framework and roadmap and ended with presenting them with a comprehensive list of recommendations and procedures to be implemented.
 
 ## CSF Core Functions
 The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER — organize cybersecurity outcomes at their highest level.
@@ -46,14 +46,14 @@ At all times the question should be asked whether data is kept *Confidential*, i
 <details close> 
 <summary> <h3> Oscorp's Current status report (Click here)</h3> </summary>
 
-**Current Oscorp cybersecurity team:**
-- Cyber security analyst: generalist, responds to cyber incidents as they come. Reports
+**Current Oscorp Cybersecurity Team:**
+- Cybersecurity analyst: generalist, responds to cyber incidents as they come. Reports
 to Oscorp’s IT manager.
 - Network engineer: manages the firewalls. Reports to the Network Team Leader.
-- Cyber Security Consultant: your new role at Oscorp. You will initially report to the IT
+- Cybersecurity Consultant: your new role at Oscorp. You will initially report to the IT
 manager.
 
-**Oscorp Current Cyber Security Controls:**
+**Oscorp Current Cybersecurity Controls:**
 - Organizational governance:
   - CEO has a clear business strategy for the business. However, roles and
 responsibilities for cybersecurity haven’t been defined. They’re assigned to
@@ -123,14 +123,14 @@ everywhere
   - No formal information security policy
   - There is no data governance policies or information classificaDon
 
-- Cyber Security detection and response:
+- Cybersecurity detection and response:
   - There is no detection or response capability
   - The IT team responds to alerts from the anti-virus (Microsoft Defender)
   - No SIEM in place
 
 - Security Education and Awareness:
   - All employees are required to do an induction web training module. The
-module includes basic instructions about cyber security.
+module includes basic instructions about cybersecurity.
 
   </details>
 ------
@@ -219,15 +219,15 @@ The following are a set of recommendations based on the NIST assessment.
 The recommendations should be priorized in order of importance.
 Key Areas of Improvements:
 
-Cyber Security Governance:
+Cybersecurity Governance:
 
-• Hire a Cyber security manager or a Chief information security manager.
+• Hire a Cybersecurity manager or a Chief information security manager.
 
-• Formalize cyber security roles and responsibilities. Ensure that the board of directors are aware of their information security duties
+• Formalize cybersecurity roles and responsibilities. Ensure that the board of directors are aware of their information security duties
 
 • Draft a comprehensive information security policy. Get the policy endorsed by senior management.
 
-• Invest in hiring cyber security professionals to establish and manage a cyber security practice.
+• Invest in hiring cybersecurity professionals to establish and manage a cybersecurity practice.
 
 Asset Management:
 
@@ -240,17 +240,17 @@ Third Party risk management:
 • Create a process to identify and manage third party suppliers. The process should start by identifying suppliers, classifying suppliers, and conducting periodic
 security assessments on third party suppliers
 
-Cyber Security Risk Management:
+Cybersecurity Risk Management:
 
-• Create a process to assess and manage cyber security risks.
+• Create a process to assess and manage cybersecurity risks.
 
 • The process should priorize risks based on criticality and impact to the business.
 
 • The process should be endorsed by the audit and risk commitee and the current risk management team
 
-• Create a cyber security risk register to document all cyber security risks
+• Create a cybersecurity risk register to document all cybersecurity risks
 
-• Recommend an internal audit program to include cyber security in the scope
+• Recommend an internal audit program to include cybersecurity in the scope
 
 Identity and Access Management:
 
@@ -280,6 +280,6 @@ Data Security and DLP:
 
 Detection and Response:
 
-• Invest in a SIEM solu1on. This could be using a Managed Security Service Provider (MSSP) or in house. Detecting cyber security incidents is a priority.
+• Invest in a SIEM solu1on. This could be using a Managed Security Service Provider (MSSP) or in house. Detecting cybersecurity incidents is a priority.
 
-• Create an enterprise-wide cyber security incident response plan and at least 5 cyber security incident response plans for the most common attack types.
+• Create an enterprise-wide cybersecurity incident response plan and at least 5 cybersecurity incident response plans for the most common attack types.
