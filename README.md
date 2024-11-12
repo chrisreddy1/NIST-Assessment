@@ -145,7 +145,7 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 
 ![image](https://github.com/user-attachments/assets/abe2f966-8146-4dcc-8bf0-0ab1cfa17938)
 
-![image](https://github.com/user-attachments/assets/54d5cacd-c4fc-476b-9988-16990bd89c65)
+![image](https://github.com/user-attachments/assets/d61d72d7-d959-4bdd-96e5-e8406551c62f)
 
 ![image](https://github.com/user-attachments/assets/1a82cfcd-03d5-45a4-aabb-32cc84fe344a)
 
