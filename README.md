@@ -151,51 +151,6 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 
   </details>
 
-### Asset Management:
--	*Physical devices and systems within the organization ARE properly inventoried, HOWEVER no IP address identified.* No access agents identified. This prohibits a vulnerability scanner from authenticating and accessing the device and limits the scope of the scanner.
--	*External information systems are NOT properly catalogued.* Although third-party contracts are being tracked, there is no third-party risk management or IT involvement.
--	*Resources (e.g., hardware, devices, data and software) are NOT prioritized based on their classification, criticality and business value.* There is no asset classification process based in sensitivity and criticality.
--	*Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are NOT established.*
-
-A vulnerability management policy needs to be implemented. Vulnerabilities need to be classified and prioritized. It is recommended an access agent is installed on all permanent and non-permanent network connected devices in order to authenticate the scan. Utilizing an access agent in conjunction with a vulnerability scanner will greatly improve the scope of the scans. 
-Third-party risk management policy needs to be implemented and IT department needs third-party service provider involvement.
-Assets need to be labeled with a sensitivity or criticality classification determined by the Maximum Tolerable Outage matrix. See figure below for example.
-
-![image](https://github.com/user-attachments/assets/0fd3f160-1f11-4da1-a781-d0837b1115c7)
-
-`(RPO=recovery point objective, RTO=recovery time objective, WRT=working recovery time)`
-
-Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) need to be established and implemented.
-
-### Business Environment:
--	*The organization’s role in the supply chain is NOT identified and communicated.*
-
-The organization needs clear documentation outlining their role within their own supply chain when it comes to cyber security. Mapping of third-party suppliers, classifying suppliers based on criticality and sensitivity. 
-
-### Governance:
--	*Organizational information security policy is NOT established.*
--	*Information security roles and responsibilities are NOT coordinated and aligned with internal roles and external partners.* No security roles and policies have been documented and communicated.
--	*Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are NOT understood and managed.* No legal and regulatory responsibilities have been documented.
--	*Governance and risk management processes DO NOT address cybersecurity risk.* There is no process or oversight implemented to manage cyber security risk.
-
-A formal Cyber and Information Security policy needs to be established.
-Information security, legal and regulatory roles and responsibilities need to be outlined, documented and communicated with internal and external stakeholders.
-A comprehensive set of processes and procedures to manage cyber security risks need to be established with direct board member oversight of security issues.
-
-### Risk Assessment and Risk Management Strategy:
--	*Asset vulnerabilities are NOT identified and documented.* Scans are merely conducted ad-hoc without regularity. No established procedures for analysis and documentation.
--	*Threat and vulnerability information is NOT received from information sharing forums and sources.*
--	*Threats, both internal and external, are NOT identified and documented.*
--	*Potential business impacts and likelihoods are NOT identified.*
--	*Threats, vulnerabilities, likelihoods and impacts are NOT used to determine risk.*
--	*Risk responses are NOT identified and prioritized.*
--	*Risk management processes are NOT established, managed and agreed to by organizational stakeholders.*
--	*Organizational risk tolerance is undetermined and NOT clearly expressed.*
-
-A full-scale Cyber Security Risk Management policy needs to be implemented utilizing the **[OWASP](https://owasp.org/)** (Open Worldwide Application Security Project) secure design principles. Use of [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) implemented to test and verify the policy. Complete a document that outlines strategies for managing potential risks that could impact the organization. Utilizing a **Risk Matrix** to establish risk tolerance and priority. Tangible and non-tangible asset identification and categorization. 
-
-![Screenshot 2024-09-06 155149](https://github.com/user-attachments/assets/88309da8-792e-4e3d-a6ed-d7c293cfc655)
-
 ------
 <!--## PROTECT-->
 ![Screenshot 2024-10-28 134843](https://github.com/user-attachments/assets/eaa0f70b-acb1-43ba-9186-53f4c406875c)
@@ -215,50 +170,6 @@ A full-scale Cyber Security Risk Management policy needs to be implemented utili
 
 
   </details>
-  
-### Access Controls:
-
--	*Identities and credentials are NOT adequately managed for authorized devices and users.* No use of Multi-Factor Authentication. No specified off-boarding procedures. No periodic access reviews established.
--	*Physical access to assets is NOT managed and protected.* No verified entry/exit logs. No biometrics implemented. No access management policy in place.
--	*Remote access is NOT adequately managed.* No Two-Factor Authentication for VPN. 
--	*Access permissions are NOT managed, incorporating the principles of least privilege and separation of duties.* No Access management policy in place. Least privilege and Separation of Duties implementation inadequate.
-
-Identity and Access Management (IAM) policy needs to be established and implemented to determine access to resources and assets based on identity verification, validation, authentication and authorization of the subject (user, group, device, etc.) for a specific period of time.
-Policy should cover Multi-Factor Authentication (MFA), Access control lists (ACL), Roll-based access control, On- and Off-boarding procedures, Remote access directives to include 2FA.
-
-### Awareness Training:
--	*All users are NOT informed and trained.* No regular training. Insufficient onboarding training. No Third-Party Training protocol established. 
--	*Privileged users DO NOT understand roles and responsibilities.* No Privileged access management in place.
--	*Third-party stakeholders (e.g., suppliers, customers, partners) DO NOT understand roles and responsibilities.* No Third-Party Training protocol or Risk Management established.
--	*Senior executives DO NOT understand roles and responsibilities.* No dedicated executive security and board member awareness training established.
--	*Physical and information security personnel DO NOT understand roles and responsibilities.* No roles or responsibilities established.
-
-Training and Education program needs established and implemented. Program needs to be ran periodically and kept up to date. Effectiveness needs to be verified. Training should be extended to Third-Party providers through the TPRM. Cyber Security roles and responsibilities need established and implemented. Establish dedicated training for executives and board members.
-
-### Data Security:
--	*Data-at-rest is NOT adequately protected.* Although data is kept by Azure, the organization has not classified or labeled any data. No DLP strategy is implemented. 
--	*Data-in-transit is NOT adequately protected.* No USB data transfer limitations are established.
--	*Assets are NOT formally managed throughout removal, transfers and disposition.* No policies regarding asset offboarding or data disposal implemented.
--	*No protections against data leaks are implemented.* No DLP strategy implemented
-
-A Data Loss Prevention method needs to be configured. Data needs to be classified and labeled for it to be effective. Movement and exfiltration of data (USB downloads) need to be monitored. Asset and data disposal policies need to be implemented.
-
-### Information Protection Processes and Procedures:
--	*No configuration change control processes are in place.* No change management or documented policies in place.
--	*Policy and regulations regarding the physical operating environment for organizational assets are NOT met.* Physical protection protocols are in place, yet no policies are defined.
--	*Data is NOT destroyed according to policy.* No data disposal policy in place. 
--	*Effectiveness of protection technologies is NOT shared with appropriate parties.*
--	*Inadequate Cybersecurity in human resources practices. (e.g., deprovisioning, personnel screening).* No offboarding procedures in place.
--	*NO vulnerability management plan is developed or implemented.* No effective or formally managed Vulnerability Management program implemented.
-
-Configuration change protocols need to be implemented and documented. Physical security policies need to be defined. Data disposal policy needs implemented. Data protection information sharing should be considered. Personnel offboarding procedures and policy needs implemented. Although vulnerability scans are occasionally performed, a formal and effective program and policy needs to be implemented.
-
-### Protective Technology:
--	*Audit/log records are NOT determined, documented, implemented or reviewed in accordance with policy.* No event or log management is performed. No SIEM in place.
--	*Removable media is NOT protected and its use restricted according to policy.* No data exfiltration policy in place.
--	*Communications and control networks are NOT adequately protected.* Network traffic is not monitored adequately.
-
-A Security Information and Event Management (SIEM) needs to be implemented and aligned with industry standard framework [MITRE ATT&CK](https://attack.mitre.org/). Policy needs to be established and personnel appointed for monitoring. 
 
 ------
 <!--## DETECT-->
@@ -275,19 +186,6 @@ A Security Information and Event Management (SIEM) needs to be implemented and a
 
   </details>
 
-  
-### Anomalies and Events:
-
-Implement a SIEM to capture and monitor network traffic. Monitor logs and events, analyze threats, classify low/medium/high impact events based on criticality and establish escalation points.
-
-### Security Continuous Monitoring:
-
-Implement a SIEM to capture and monitor network traffic. Merely monitoring traffic and alerts through Microsoft Defender is critically inadequate. Scope of monitoring needs to be defined. Implement detection and response procedures and capabilities. Implement proper Third-Party Risk Management Policy. Implement a formal Vulnerability Management Policy and run scan periodically according to policy.
-
-### Detection Processes:
-
-Detection and response capabilities need to be established. Roles and responsibilities need to be defined and implemented. Separation of duties between IT department and Cyber security department need to be considered. Use periodic Penetration Test to verify robustness of security posture.
-
 ------
 <!-- RESPOND-->
 ![Screenshot 2024-10-28 134902](https://github.com/user-attachments/assets/0e5fa430-0cea-4d22-be43-912381a82917)
@@ -303,29 +201,6 @@ Detection and response capabilities need to be established. Roles and responsibi
 
   </details>
 
-
-### Response Planning:
-
-A Cybersecurity response process and policy needs to be established. 
-
-### Communications:
-
-Incident response activities need to be determined and communicated with internal and external stakeholders. Include all contact details and establish thresholds and escalation points. Communicate with proper authorities when necessary and share findings with industry peers
-
-### Analysis:
-
-Ensure analysis is conducted to determine adequate response and support recovery activities. Document criticality of incidents. Consider the ability for forensic investigations when needs. 
-
-### Mitigation:
-
-- Ensure Incident response plans follow a standard that ensure that incidents are contained and mitigated (SANS incident response plans).
-- Establish Vulnerability Management Program to aid in identifying and categorizing new, known and unknown vulnerabilities.
-- Establish a process for dealing with ‘Zero-day’ vulnerabilities.
-
-### Improvements: 
-
-Analyze, test and update incident response plans continuously. 
-
 ------
 <!--## RECOVER-->
 ![Screenshot 2024-10-28 134912](https://github.com/user-attachments/assets/b595cac7-1881-4388-b3ac-4e5f59a099fc)
@@ -337,12 +212,74 @@ Analyze, test and update incident response plans continuously.
 
   </details>
 
-### Communications:
-
-Coordinate restoration activities with internal and external parties, such as coordinating centers, Internet Service Providers, owners of attacking systems, victims, other CSIRTs and vendors. Consider need for reputational damage mitigation policy.
-
 ------
 
-## Conclusion
+## Recommendations
+The following are a set of recommendations based on the NIST assessment.
+The recommendations should be priorized in order of importance.
+Key Areas of Improvements:
 
-After investigating Oscorp's security posture, I analysed the findings and overlayed them with the NIST CSF 2.0. I utilized relevant security frameworks like MITRE ATT@CK, NIST 800-53, OWASP and otheres to compile a comprehensive roadmap towards a secure security infrastructure. 
+Cyber Security Governance:
+
+• Hire a Cyber security manager or a Chief information security manager.
+
+• Formalize cyber security roles and responsibilities. Ensure that the board of directors are aware of their information security duties
+
+• Draft a comprehensive information security policy. Get the policy endorsed by senior management.
+
+• Invest in hiring cyber security professionals to establish and manage a cyber security practice.
+
+Asset Management:
+
+• Identify and classify all assets based on criticality and sensitivity
+
+• Conduct periodic reviews to ensure the CMDB is accurate and up to date 
+
+Third Party risk management:
+
+• Create a process to identify and manage third party suppliers. The process should start by identifying suppliers, classifying suppliers, and conducting periodic
+security assessments on third party suppliers
+
+Cyber Security Risk Management:
+
+• Create a process to assess and manage cyber security risks.
+
+• The process should priorize risks based on criticality and impact to the business.
+
+• The process should be endorsed by the audit and risk commitee and the current risk management team
+
+• Create a cyber security risk register to document all cyber security risks
+
+• Recommend an internal audit program to include cyber security in the scope
+
+Identity and Access Management:
+
+• Implement and roll out two factor authentication across the organization as a priority
+
+• Follow the principle of least privileges and separation of duties across the organization
+
+• Review admin users, eliminate sharing of admin passwords and implement a role based access control
+
+• Conduct regular user access reviews to ensure that access management principles are consistently followed
+
+Security Education and Awareness:
+
+• Employees should undergo security training at least once every 12 months
+
+• Consider running simulated phishing attacks to further improve awareness
+
+Data Security and DLP:
+
+• Undertake a data discovery activity. Classify and label data based on sensitivity and criticality.
+
+• Utilize Microsoft Azure AIP to label data
+
+• Consider implemen1ng a DLP solution. A Microsoft DLP solution might be the best solution as the environment uses Microsoft products.
+
+• Block USB flash drive usage. Only allow it (temporarily) when there is a business justification.
+
+Detection and Response:
+
+• Invest in a SIEM solu1on. This could be using a Managed Security Service Provider (MSSP) or in house. Detecting cyber security incidents is a priority.
+
+• Create an enterprise-wide cyber security incident response plan and at least 5 cyber security incident response plans for the most common attack types.
