@@ -1,8 +1,8 @@
-# Corporate Cybersecurity Assessment utilizing NIST Cybersecurity Framework (CSF) 2.0
+# Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0
 
 ## Introduction
 
-For this project I was tasked with analyzing an Organization's ('Oscorp') cybersecurity status and designing a comprehensive cybersecurity program utilizing the [NIST CSF 2.0](https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20) to uplift its security posture. I was given a 'current status' report, much like one that would be compiled after initial investigations and interviews with employees and stakeholders. Using the NIST CSF, I conducted a pass/fail assessment and presented recommendations for improvement. I decided to start with a short presentation to stakeholders to explain the framework and roadmap and ended with presenting them with a comprehensive list of recommendations and procedures to be implemented.
+For this project I was tasked with analyzing an organization's ('Oscorp') cybersecurity status and designing a comprehensive cybersecurity program utilizing the [NIST CSF 2.0](https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20) to uplift its security posture. I was given a 'current status' report, much like one that would be compiled after initial investigations and interviews with employees and stakeholders. Using the NIST CSF, I conducted a pass/fail assessment and presented recommendations for improvement. I decided to start with a short presentation to stakeholders to explain the framework and roadmap and ended with presenting them with a comprehensive list of recommendations and procedures to be implemented.
 
 ## CSF Core Functions
 The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER — organize cybersecurity outcomes at their highest level.
@@ -44,7 +44,7 @@ At all times the question should be asked whether data is kept *Confidential*, i
 ![image](https://github.com/user-attachments/assets/5b8e35de-2c04-4de8-a82c-bb526a3f6f5c)
 ------
 <details close> 
-<summary> <h3> Oscorp's Current Status Report (Click here)</h3> </summary>
+<summary> <h3> Oscorp's Current Status Report (Click Here)</h3> </summary>
 
 **Current Oscorp Cybersecurity Team:**
 - Cybersecurity Analyst: generalist, responds to cyber incidents as they come. Reports to Oscorp’s IT manager.
@@ -131,7 +131,7 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 ![Screenshot 2024-10-28 134831](https://github.com/user-attachments/assets/9dc5bda1-08f0-4d90-b806-34621a19553a)
 
 <details close> 
-<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click here)</h3> </summary>
+<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click Here)</h3> </summary>
 
 ![image](https://github.com/user-attachments/assets/abe2f966-8146-4dcc-8bf0-0ab1cfa17938)
 
@@ -146,7 +146,7 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 ![Screenshot 2024-10-28 134843](https://github.com/user-attachments/assets/eaa0f70b-acb1-43ba-9186-53f4c406875c)
 
 <details close> 
-<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click here)</h3> </summary>
+<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click Here)</h3> </summary>
 
 ![image](https://github.com/user-attachments/assets/e8d88aa2-c758-4e8c-94dc-16131907acc4)
 
@@ -166,7 +166,7 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 ![Screenshot 2024-10-28 134853](https://github.com/user-attachments/assets/2a5d2bd2-ba9b-4cff-84c2-840f73c4633b)
 
 <details close> 
-<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click here)</h3> </summary>
+<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click Here)</h3> </summary>
 
 ![image](https://github.com/user-attachments/assets/4dd81dfd-3692-43ef-997d-1e9c8be15291)
 
@@ -181,7 +181,7 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 ![Screenshot 2024-10-28 134902](https://github.com/user-attachments/assets/0e5fa430-0cea-4d22-be43-912381a82917)
 
 <details close> 
-<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click here)</h3> </summary>
+<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click Here)</h3> </summary>
 
 ![image](https://github.com/user-attachments/assets/d81c80c1-9de2-4f9d-a723-75c9d880ed19)
 
@@ -196,7 +196,7 @@ Utilizing CSF Core functions as a guide, an assessment of Oscorp identified many
 ![Screenshot 2024-10-28 134912](https://github.com/user-attachments/assets/b595cac7-1881-4388-b3ac-4e5f59a099fc)
 
 <details close> 
-<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click here)</h3> </summary>
+<summary> <h3> NIST Cybersecurity Framework 2.0 Pass/Fail Logs (Click Here)</h3> </summary>
 
 ![image](https://github.com/user-attachments/assets/4ff8a12f-562a-4de2-ab15-0f57380f01dd)
 
