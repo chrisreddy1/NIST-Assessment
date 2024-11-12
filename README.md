@@ -1,4 +1,4 @@
-# Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0
+# Corporate Cybersecurity Assessment utilizing NIST Cybersecurity Framework (CSF) 2.0
 
 ## Introduction
 
