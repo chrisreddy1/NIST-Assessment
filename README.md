@@ -33,7 +33,7 @@ A "current profile" specifies the core outcomes that an organization is currentl
  
 A "target profile" specifies the desired outcomes that an organization has selected and prioritized for achieving its cybersecurity risk management objectives. It considers anticipated changes to the organization’s cybersecurity posture, such as new requirements, new technology adoption, and threat intelligence trends. 
 
-**Target profile for Oscorp: Tier 4:**
+**Target profile for Oscorp: Tier 4: Adaptive.**
 
 |Tier           | Cybersecurity Risk Governance                                                    | Cybersecurity Risk Management
 |---------------|----------------------------------------------------------------------------------|------------------------------
